@@ -1,18 +1,18 @@
 # See the OWNERS docs at https://go.k8s.io/owners
 
 approvers:
- - lentzi90
- - Rozzii
  - dtantsur
  - elfosardo
- - tuminoid
  - kashifest
+ - lentzi90
+ - Rozzii
+ - tuminoid
 
 reviewers:
+ - honza
  - mboukhalfa
  - smoshiur1237
  - zaneb
- - honza
 
 emeritus_reviewers:
 
