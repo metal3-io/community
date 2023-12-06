@@ -1,5 +1,13 @@
 #!/bin/sh
 
+# TODO:
+# Fix markdownlint complaints
+#
+# - MD013: enforcing this breaks table-formatting
+#
+# Further documentation is available for these failures:
+#  - MD013: https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md#md013---line-length
+
 set -eux
 
 IS_CONTAINER="${IS_CONTAINER:-false}"
@@ -7,7 +15,11 @@ CONTAINER_RUNTIME="${CONTAINER_RUNTIME:-podman}"
 
 if [ "${IS_CONTAINER}" != "false" ]; then
     TOP_DIR="${1:-.}"
-    find "${TOP_DIR}" -type d \( -path ./vendor -o -path ./.github \) -prune -o -name '*.md' -exec mdl --style all --warnings {} \+
+    find "${TOP_DIR}" \
+      -name '*.md' -exec \
+      mdl --style all --warnings \
+      --rules "~MD013" \
+      {} \+
 else
     "${CONTAINER_RUNTIME}" run --rm \
         --env IS_CONTAINER=TRUE \
