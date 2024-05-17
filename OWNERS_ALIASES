@@ -1,0 +1,16 @@
+# See the OWNERS docs: https://git.k8s.io/community/contributors/guide/owners.md
+
+aliases:
+  community-maintainers:
+  - dtantsur
+  - elfosardo
+  - kashifest
+  - lentzi90
+  - Rozzii
+  - tuminoid
+
+  community-reviewers:
+  - honza
+  - mboukhalfa
+  - smoshiur1237
+  - zaneb
