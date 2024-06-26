@@ -1,6 +1,7 @@
 # Metal3 community
 
 [![CLOMonitor](https://img.shields.io/endpoint?url=https://clomonitor.io/api/projects/cncf/metal3-io/badge)](https://clomonitor.io/projects/cncf/metal3-io)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9160/badge)](https://www.bestpractices.dev/projects/9160)
 
 Welcome to Metal3 community! This repository contains governance materials
 related to the Metal3 community.
