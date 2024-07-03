@@ -155,6 +155,8 @@ rights and responsibilities of a Reviewer.
    * Same as Reviewers
    * Engage/drive in feature proposals and ensure release readiness of the
    repository.
+   * Update/modify project goals and governance policies.
+   * Define/maintain project [roadmap](ROADMAP.md).
 
 * Requirements:
    * Has a track record of constructive and valuable reviews as a Reviewer
