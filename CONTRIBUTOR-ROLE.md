@@ -96,3 +96,15 @@ The process of becoming a release team member is:
 [Maintainers](maintainers/README.md) are very established contributors who are
 responsible for the entire project. Detailed responsibilities and guideline to
 become a maintainer is documented [here](maintainers/README.md).
+
+## Onboarding / Off-boarding team members
+
+* Maintainers with Github org admin access are responsible for managing access
+permissions of different teams. They can also add/remove members in
+specific teams.
+* Maintainers and existing team members can onboard a new team member and onboard
+the member regarding the teams duties, rules and responsibilities.
+* Maintainers can also off-board a team member. In case a team member is off-boarded,
+any related secrets, passwords, keys etc should also be rotated.
+* If a team is completely inactive or deemed unnecessary, maintainers can
+remove the team based on consensus.
