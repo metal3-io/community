@@ -12,5 +12,6 @@
 | Integration | IKEA IT AB | 2020 | | IKEA IT AB uses Metal3 to handle BareMetal provisioning and lifecycle management in its CAPI-Based bare metal cloud infrastructure. |
 | Integration | PITS Global Data Recovery Services | 2023 | [link](https://pitsdatarecovery.net/)| The Metal3 is used to manage highly-loaded internal infrastructure prividing reliable and flexible k8s solutions. |
 | Integration | SUSE | 2023 | [link](https://suse-edge.github.io)| Metal3 is used for automated bare metal deployment as part of the SUSE Edge solution. |
+| Integration | Sylva | 2022 | [link](https://sylvaproject.org)| Sylva uses Cluster API to manage clusters lifecycle, with CAPM3 and Metal3 for baremetal. |
 
 <!-- markdownlint-enable MD013 -->
