@@ -11,7 +11,6 @@ declare -a REPOS=(
     cluster-api-provider-metal3
     community
     ip-address-manager
-    ironic-client
     ironic-hardware-inventory-recorder-image
     ironic-image
     ironic-ipa-downloader
