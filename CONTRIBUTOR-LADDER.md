@@ -91,7 +91,7 @@ Contributor, plus:
 
 * Privileges:
 
-   * Can trigger CI
+   * Can trigger CI, including cherry-pick bot
    * Can recommend other contributors to become Metal3 GitHub Org members
    * Can nominate themselves to [other roles](CONTRIBUTOR-ROLES.md) within Metal3
 
@@ -171,8 +171,8 @@ rights and responsibilities of a Reviewer.
    directories
    * Can recommend and review other Org Members to become Approvers
 
-The process for an Organization Member to become an Approver is documented
-[here](maintainers/README.md).
+The process for an Organization Member to become an Approver is
+[documented here](maintainers/README.md).
 
 **Note**: If the current maintainers of a specific repository identify that an
 existing Approver/Reviewer is no longer active in the repository, the maintainer
