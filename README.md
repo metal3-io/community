@@ -1,6 +1,9 @@
 # Metal3 community
 
 [![CLOMonitor](https://img.shields.io/endpoint?url=https://clomonitor.io/api/projects/cncf/metal3-io/badge)](https://clomonitor.io/projects/cncf/metal3-io)
+[![LFX Health Score](https://img.shields.io/static/v1?label=Health%20Score&message=Healthy&color=A7F3D0&logo=linuxfoundation&logoColor=white&style=flat)](https://insights.linuxfoundation.org/project/metal3)
+[![LFX Contributors](https://img.shields.io/static/v1?label=Contributors&message=631&color=0094FF&logo=linuxfoundation&logoColor=white&style=flat)](https://insights.linuxfoundation.org/project/metal3)
+[![LFX Active Contributors](https://img.shields.io/static/v1?label=Active%20contributors%20(1Y)&message=198&color=0094FF&logo=linuxfoundation&logoColor=white&style=flat)](https://insights.linuxfoundation.org/project/metal3)
 
 Welcome to Metal3 community! This repository contains governance materials
 related to the Metal3 community.
