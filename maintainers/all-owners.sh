@@ -112,7 +112,12 @@ for owner in "${OWNER_TYPES[@]}"; do
         # match the GitHub handle against the CNCF maintainer file
         # remove the double ',' and the windows carrige return from the lines
         individual="$(grep "${maintainer}" "project-maintainers.csv" | sed -e 's/,,//g' | sed -e 's/\r//g')"
-        mail=$(find_mail "${individual%%,*}")
-        echo "- ${individual}${mail}"
+        if [[ -z "${individual}" ]]; then
+            # If not found in CNCF CSV, print the maintainer as-is with placeholders
+            echo "- ${maintainer},----UNKNOWN_AFFILIATION-----"
+        else
+            mail=$(find_mail "${individual%%,*}")
+            echo "- ${individual}${mail}"
+        fi
     done
 done
