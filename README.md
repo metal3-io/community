@@ -28,7 +28,7 @@ come talk to us!
 * Subscribe to the [Metal3 Development Mailing List](https://groups.google.com/forum/#!forum/metal3-dev)
   for the project related anouncements, discussions and questions.
 * Come and meet us in our weekly community meetings on every
-  Wednesday at 14:00 UTC on [Zoom](https://zoom.us/j/97255696401?pwd=ZlJMckNFLzdxMDNZN2xvTW5oa2lCZz09)
+  Wednesday at 14:00 UTC on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/93558879994?password=ddd21dc3-ea2f-433f-8c93-fae1a5bb187d)
 * If you missed the previous community meeting, you can still find the notes
   [here](https://docs.google.com/document/d/1IkEIh-ffWY3DaNX3aFcAxGbttdEY_symo7WAGmzkWhU/edit)
   and recordings [here](https://www.youtube.com/playlist?list=PL2h5ikWC8viJY4SNeOpCKTyERToTbJJJA)
