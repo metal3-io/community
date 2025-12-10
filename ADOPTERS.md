@@ -1,7 +1,5 @@
 # Metal3.io Adopters
 
-<!-- markdownlint-disable MD013 -->
-
 | Type | Name | Since | Website | Use-Case |
 |:-----|:-----|:------|:--------|:---------|
 | Integration | Ericsson | 2019 | [link](https://www.ericsson.com/en/portfolio/cloud-software-and-services/cloud-core/cloud-infrastructure/cloud-native-infrastructure/cloud-container-distribution) | As a Kubernetes distributor we are building Cloud Container Distribution (CCD) and integrating Metal3 project for baremetal deployments and for baremetal cluster LCM tasks. |
@@ -14,5 +12,3 @@
 | Integration | PITS Global Data Recovery Services | 2023 | [link](https://pitsdatarecovery.net/)| The Metal3 is used to manage highly-loaded internal infrastructure prividing reliable and flexible k8s solutions. |
 | Integration | SUSE | 2023 | [link](https://suse-edge.github.io)| Metal3 is used for automated bare metal deployment as part of the SUSE Edge solution. |
 | Integration | Sylva | 2022 | [link](https://sylvaproject.org)| Sylva uses Cluster API to manage clusters lifecycle, with CAPM3 and Metal3 for baremetal. |
-
-<!-- markdownlint-enable MD013 -->
