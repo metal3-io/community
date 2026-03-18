@@ -1,7 +1,7 @@
 header:
   schema-version: 2.2.0
-  last-updated: '2026-02-24'
-  last-reviewed: '2026-02-24'
+  last-updated: '2026-03-17'
+  last-reviewed: '2026-03-17'
   url: https://raw.githubusercontent.com/metal3-io/community/main/.github/security-insights.yml
   comment: |
     Project-level Security Insights file for Metal3. Individual
@@ -11,11 +11,15 @@ project:
   homepage: https://metal3.io
   roadmap: https://github.com/orgs/metal3-io/projects/8
   administrators:
+  - name: dtantsur
+    primary: false
+  - name: elfosardo
+    primary: false
   - name: kashifest
     primary: true
   - name: Rozzii
     primary: false
-  - name: dtantsur
+  - name: tuminoid
     primary: false
   - name: zaneb
     primary: false
