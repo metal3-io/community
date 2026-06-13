@@ -26,7 +26,7 @@ project:
   documentation:
     code-of-conduct: https://github.com/cncf/foundation/blob/main/code-of-conduct.md
     support-policy: https://book.metal3.io/version_support.html
-    user-guide: https://book.metal3.io
+    detailed-guide: https://book.metal3.io
   repositories:
   - name: baremetal-operator
     url: https://github.com/metal3-io/baremetal-operator
