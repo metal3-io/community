@@ -22,7 +22,6 @@ REPOS=(
     ironic-image
     ironic-ipa-downloader
     ironic-standalone-operator
-    mariadb-image
     metal3-dev-env
     metal3-docs
     metal3-io.github.io
