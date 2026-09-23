@@ -95,7 +95,7 @@ The process of becoming a release team member is:
 
 [Maintainers](maintainers/README.md) are very established contributors who are
 responsible for the entire project. Detailed responsibilities and guideline to
-become a maintainer is documented [here](maintainers/README.md).
+become a maintainer is documented in the [maintainer guidelines](maintainers/README.md).
 
 ## Onboarding / Off-boarding team members
 

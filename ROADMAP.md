@@ -1,7 +1,7 @@
 # Metal3 Roadmap
 
 The Metal3 Roadmap is maintained as a GitHub project and can be found
-[here](https://github.com/orgs/metal3-io/projects/8).
+[GitHub project board](https://github.com/orgs/metal3-io/projects/8).
 
 ## Description
 
@@ -25,9 +25,9 @@ community meetups. Meetups are usually long discussions within the community
 and the specific focus is to discuss long term goals and Roadmap items for the
 project.
 
-First Metal3 meetup was arranged on 15th of May 2023. Here is the
-[link](https://docs.google.com/document/d/1Exm5k6JB2JlD9_FOaM68R2ASHi7ZsryF_xEqLG1j4zA)
-of the meeting minutes and discussion topics for all meetups ever since the
+First Metal3 meetup was arranged on 15th of May 2023. Here are the
+[meeting minutes and discussion topics](https://docs.google.com/document/d/1Exm5k6JB2JlD9_FOaM68R2ASHi7ZsryF_xEqLG1j4zA)
+for all meetups ever since the
 first.
 
 ## Community Meetings

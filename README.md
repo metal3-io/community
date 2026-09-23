@@ -29,7 +29,7 @@ come talk to us!
   for the project related anouncements, discussions and questions.
 * Come and meet us in our weekly community meetings on every
   Wednesday at 14:00 UTC on [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/93558879994?password=ddd21dc3-ea2f-433f-8c93-fae1a5bb187d)
-* If you missed the previous community meeting, you can still find the notes
-  [here](https://docs.google.com/document/d/1IkEIh-ffWY3DaNX3aFcAxGbttdEY_symo7WAGmzkWhU/edit)
-  and recordings [here](https://www.youtube.com/playlist?list=PL2h5ikWC8viJY4SNeOpCKTyERToTbJJJA)
+* If you missed the previous community meeting, you can still find the
+  [meeting notes](https://docs.google.com/document/d/1IkEIh-ffWY3DaNX3aFcAxGbttdEY_symo7WAGmzkWhU/edit)
+  and [meeting recordings](https://www.youtube.com/playlist?list=PL2h5ikWC8viJY4SNeOpCKTyERToTbJJJA)
 * Find more information about Metal3 on [Metal3 Website](https://metal3.io)
